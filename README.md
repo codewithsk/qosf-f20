@@ -5,17 +5,17 @@ Hello! This is my application to the [Quantum Open Source Foundation's](https://
 ## Problem Statement
 Implement, on a quantum simulator of your choice, the following 4 qubits state $|\psi(\theta)>$:
 
-![circuit.png](attachment:circuit.png)
+![circuit.png](https://raw.githubusercontent.com/codewithsk/qosf-f20/master/assets/circuit.png)
 
 Where the number of layers, denoted with L, has to be considered as a parameter. We call ¨Layer¨ the combination of 1 yellow + 1 green block, so, for example, U1 + U2 is a layer. The odd/even variational blocks are given by:
 
 
 Even blocks:
-![even%20block.png](attachment:even%20block.png)
+![even%20block.png](https://raw.githubusercontent.com/codewithsk/qosf-f20/master/assets/even%20block.png)
 
 
 Odd blocks:
-![odd%20block.png](attachment:odd%20block.png)
+![odd%20block.png](https://raw.githubusercontent.com/codewithsk/qosf-f20/master/assets/odd%20block.png)
 
 
 
