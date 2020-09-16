@@ -31,7 +31,7 @@ Where $| \varphi>$ is a randomly generated vector on 4 qubits and the norm $|| |
 
 ## Solution
 
-The code for the problem can be found in [Task 1.ipynb](Task%201.ipynb). The required plot of loss vs. layer is:
+The code for the problem and other experiments can be found in [Task 1.ipynb](Task%201.ipynb). The required plot of loss vs. layer is:
 
 
 ![overall](./output/1600228618.293382/overall.png)
