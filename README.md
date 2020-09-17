@@ -2,6 +2,10 @@
 
 Hello! This is my application to the [Quantum Open Source Foundation's](https://qosf.org/) mentorship program. Of the 4 tasks, I decided to do task 1 using the [Pennylane library](https://pennylane.ai/).
 
+#### NOTE
+The [task_1.html](task_1.html) file is an HTML export of Task 1.ipynb
+
+
 ## Problem Statement
 Implement, on a quantum simulator of your choice, the following 4 qubits state $|\psi(\theta)>$:
 
