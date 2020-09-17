@@ -4,6 +4,7 @@ Hello! This is my application to the [Quantum Open Source Foundation's](https://
 
 #### NOTE
 The [task_1.html](task_1.html) file is an HTML export of Task 1.ipynb
+
 You can also see the notebook at nbviewer in [here](https://nbviewer.jupyter.org/github/codewithsk/qosf-f20/blob/master/Task%201.ipynb)
 
 ## Problem Statement
